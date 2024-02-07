@@ -10,4 +10,4 @@ Adding files:
 Retrieving files from Github
 - do the "adding files" section above
 - ensure that there is nothing to commit by typing `git status`
-- git pull personal main
+- `git pull personal main`
