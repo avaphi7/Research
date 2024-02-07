@@ -23,7 +23,7 @@ This script fits the Higgs boson signal production channels with a double-sided 
 ### 7. HiggsFit.C
 This script fits the signal data with a double-sided crystal ball fit and fits the background data with a Bernstein polynomial fit and plots in a histogram.
 
-#### Workflow
+## Workflow
 Adding files:
 - `git add [filename]`
 - `git commit -m"[descriptive message]"`
