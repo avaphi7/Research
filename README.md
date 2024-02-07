@@ -1,5 +1,5 @@
 # Research
-A collection of code and materials related to my research.
+A collection of code and materials related to analyzing proton-proton collision data from the Large Hadron Collider. 
 
 #### Workflow
 Adding files:
