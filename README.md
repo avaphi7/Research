@@ -1,5 +1,5 @@
 # Research
-A collection of code (in C++) and materials related to analyzing proton-proton collision data from the Large Hadron Collider (LHC). The primary focus is on exercises involving transverse momenta (pT), the invariant mass distribution, and the creation of histograms. 
+A collection of code (in C++) and materials related to analyzing proton-proton collision data from the Large Hadron Collider (LHC). The primary focus is on exercises involving transverse momenta (pT), the invariant mass distribution, and the creation of histograms confirming the existence of the Higgs boson. 
 
 ## Code Description
 ### 1. RandomTTree.C
